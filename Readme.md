@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/EmptyWinApp/Form1.cs) (VB: [Form1.vb](./VB/EmptyWinApp/Form1.vb))
+<!-- default file list end -->
 # How to add and remove items from the filter drop-down list
 
 
